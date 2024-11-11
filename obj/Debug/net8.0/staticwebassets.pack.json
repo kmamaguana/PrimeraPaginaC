@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\kmamaguana\\source\\repos\\PrimeraPaginaC\\wwwroot\\images\\michi.gif",
+      "PackagePath": "staticwebassets\\images\\michi.gif"
+    },
+    {
+      "Id": "C:\\Users\\kmamaguana\\source\\repos\\PrimeraPaginaC\\wwwroot\\images\\progra1.gif",
+      "PackagePath": "staticwebassets\\images\\progra1.gif"
+    },
+    {
       "Id": "C:\\Users\\kmamaguana\\source\\repos\\PrimeraPaginaC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

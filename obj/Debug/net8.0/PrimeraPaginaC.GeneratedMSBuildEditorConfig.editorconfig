@@ -18,16 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\kmamaguana\source\repos\PrimeraPaginaC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/kmamaguana/source/repos/PrimeraPaginaC/Pages/AboutMe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRNZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kmamaguana/source/repos/PrimeraPaginaC/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kmamaguana/source/repos/PrimeraPaginaC/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kmamaguana/source/repos/PrimeraPaginaC/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kmamaguana/source/repos/PrimeraPaginaC/Pages/Shared/_ValidationScriptsPartial.cshtml]

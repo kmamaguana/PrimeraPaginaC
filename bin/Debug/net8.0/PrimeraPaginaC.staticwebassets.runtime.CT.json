@@ -27,6 +27,28 @@
         },
         "Patterns": null
       },
+      "images": {
+        "Children": {
+          "michi.gif": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "images/michi.gif"
+            },
+            "Patterns": null
+          },
+          "progra1.gif": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "images/progra1.gif"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "js": {
         "Children": {
           "site.js": {
